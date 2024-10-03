@@ -4,7 +4,6 @@ This project involves Exploratory Data Analysis (EDA) and Data Visualization on 
 
 Dataset Description
 The diabetes dataset contains features such as:
-
 age: Age of the patient
 gender: Gender of the patient
 hypertension: Whether the patient has hypertension (1: Yes, 0: No)
